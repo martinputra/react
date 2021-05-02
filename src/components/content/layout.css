@@ -1,0 +1,7 @@
+.layout {
+    width: 90vw;
+    height: auto;
+    min-height: 100vh;
+    display: flex;
+    margin-left: 5vw;
+}

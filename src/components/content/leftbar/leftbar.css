@@ -1,0 +1,22 @@
+.leftbar {
+    width: 20%;
+    height: auto;
+}
+
+.lbmenu {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    gap: 30px;
+    align-items: flex-start;
+    padding: 20px;
+    background-color: white;
+    position: sticky;
+    top: 90px;
+}
+
+.lbmenu-item {
+    text-transform: uppercase;
+    user-select: none;
+    cursor: pointer;
+}
